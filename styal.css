@@ -1,0 +1,152 @@
+*{ 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; }
+    
+    .contener{
+        width: 1490px;
+        height: 50px;
+    display: flex;
+    background-color: rgb(216, 216, 216);
+    justify-content: space-between; 
+    align-items: center; 
+   
+    
+}
+
+.contener > img{
+    display: flex;
+    margin: 40px;
+    width: 34px;
+    height: 34px;
+    display: flex;
+    border-radius: 50%;
+}
+ .tt{
+    padding: 10px;
+ }
+.ttr3{
+    margin: 5px;
+    display: flex;
+    align-items: center; 
+}
+
+.icon1{ 
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+    
+}
+.contener2{
+    
+    width: 1490px;
+        height: 1200px;
+        background-color: rgb(70, 86, 87);
+}
+.button1{
+    border-radius: 10px;
+    margin: 40px;
+    width: 644px;
+    height: 400px;
+    background-color: rgb(66, 49, 81);
+}
+.butimg{
+    width: 640px;
+    height: 360px;
+}
+.butpl{
+    width: 40px;
+    height: 40px;
+} 
+.r1{
+    display: flex;  
+}
+.r2{
+    background-color: rgb(70, 86, 87);
+    width: 800px;
+    height: 450px;
+    
+    
+}
+
+.r2 > p{
+    padding: 30px 15px;
+}  
+.moment1{
+    margin: 5px 15px;
+    border-radius: 10px;
+  
+}
+.moment2{
+    margin: 5px 15px;
+    border-radius: 10px;
+    width: 260px;
+    height: 183px;
+  
+}.moment3{
+    margin: 5px 15px;
+    border-radius: 10px;
+    width: 273px;
+    height: 183px;
+}
+.moment4{
+    margin: 5px 15px;
+    border-radius: 10px;
+    width: 262px;
+    height: 183px;
+    
+}
+.contener3>p{
+    padding:  30px;
+    width: 290px;
+    height: 300px;
+   color: rgb(136, 146, 154);
+    
+    
+}
+
+.contener3{
+    border-radius: 8%;
+    margin: 10px 37px;
+    width: 1400px;
+    height: 500px;
+    background-color: rgb(13, 13, 13);
+}
+.twt{
+    border-radius: 8px;
+    display: flex;
+    background-color: rgb(66, 49, 81);
+    padding: 18px 20px;
+    width: 400px;
+    height: 50px;
+    text-align: 30px;
+    transform: rotate(rotate);
+    position:absolute;
+    left:500px ;
+    color: rgb(136, 146, 154) ; 
+
+  
+}
+.nba{
+    width: 44px;
+height: 30px;
+transform: rotate(rotate);
+position: absolute;
+top: 10px;
+left: 250px;
+}
+.wqw{
+    width: 300px;
+height: 240px;
+animation-name:wq;
+animation-duration: 10s;
+}
+.wq{
+    width: 600px;
+    height: 340px;
+    transform: rotate(rotate);
+position: absolute;
+top: 650px;
+left: 400px;
+border-radius: 20px;
+}
